@@ -1,0 +1,5 @@
+com\fooddelivery\model\Order.class
+com\fooddelivery\controller\OrderController.class
+com\fooddelivery\service\OrderService.class
+com\fooddelivery\orderservice\OrderserviceApplication.class
+com\fooddelivery\repository\OrderRepository.class
